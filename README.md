@@ -1,4 +1,4 @@
-# Context
+# Contexte
 Dans ce projet, un utilisateur souhaite construire un grand nombre d'objets. Toutefois, ces derniers partagent les mêmes ressources limitées.
 Les programmes (A et B) utilisent le multithreading et les mutex sous Linux afin de produire le plus d'objet en moins de temps.
 
